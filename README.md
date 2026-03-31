@@ -68,7 +68,7 @@
 | [Traffic Flow Prediction Using ML](https://github.com/FelipeSiqueira13/DAA_Project) | Data and Machine Learning |
 | [OpenGL Rendering Engine](https://github.com/FelipeSiqueira13/ProjetoCG) | Computer Graphics |
 | [SQL Database for E-sport Event Management](https://github.com/patdfb/projetoBD) | Database Systems |
-| [Vibora — a Programming Language](https://github.com/FelipeSiqueira13/PLC-Projeto) | Programming Languages and Compilers |
+| [Vibora: a Programming Language](https://github.com/FelipeSiqueira13/PLC-Projeto) | Programming Languages and Compilers |
 | [Cave Exploration Game](https://github.com/FelipeSiqueira13/La-Project) | Algorithm Laboratory |
 
 
